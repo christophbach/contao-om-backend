@@ -6,7 +6,7 @@
                 <source>Redirect</source>
             </trans-unit>
             <trans-unit id="tl_user_group.redirect.1">
-                <source>Forward user to backend URL. e.g. do=news (A token is automatically added.)</source>
+                <source>Forward user to backend URL, e. g. do=news (a token is automatically added).</source>
             </trans-unit>
             <trans-unit id="tl_user_group.redirect_legend">
                 <source>Redirect settings</source>

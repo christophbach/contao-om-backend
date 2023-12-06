@@ -60,7 +60,7 @@
                 <source>Search</source>
             </trans-unit>
             <trans-unit id="id_search.help">
-                <source>Please enter an ID / alias and select a table.</source>
+                <source>Please enter an ID/alias and select a table.</source>
             </trans-unit>
             <trans-unit id="ERR.id_search.id_or_alias_not_found">
                 <source>ID/Alias not found.</source>

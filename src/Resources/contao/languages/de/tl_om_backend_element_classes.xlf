@@ -24,7 +24,7 @@
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.classes.1">
                 <source>Please fill the form.</source>
-                <target>Bitte füllen Sie das Felder aus.</target>
+                <target>Bitte füllen Sie die Felder aus.</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.class.0">
                 <source>Class</source>
@@ -83,24 +83,24 @@
                 <target>Element bearbeiten</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.edit.1">
-                <source>Edit element ID %s</source>
-                <target>Element ID %s bearbeiten</target>
+                <source>Edit element with ID %s</source>
+                <target>Element mit ID %s bearbeiten</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.copy.0">
                 <source>Duplicate element</source>
                 <target>Element duplizieren</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.copy.1">
-                <source>Duplicate element ID %s</source>
-                <target>Element ID %s duplizieren</target>
+                <source>Duplicate element with ID %s</source>
+                <target>Element mit ID %s duplizieren</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.delete.0">
                 <source>Delete element</source>
                 <target>Element löschen</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.delete.1">
-                <source>Delete element ID %s</source>
-                <target>Element ID %s löschen</target>
+                <source>Delete element with ID %s</source>
+                <target>Element mit ID %s löschen</target>
             </trans-unit>
         </body>
     </file>

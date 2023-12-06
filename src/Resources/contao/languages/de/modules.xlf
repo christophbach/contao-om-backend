@@ -40,7 +40,7 @@
                 <target>Datenbank</target>
             </trans-unit>
             <trans-unit id="MOD.sysinfo_phpinfo.0">
-                <source>PHP-Info</source>
+                <source>PHP info</source>
                 <target>PHP-Info</target>
             </trans-unit>
             <trans-unit id="MOD.sysinfo_phpinfo.1">

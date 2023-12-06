@@ -79,7 +79,7 @@
                 <target>Suchen</target>
             </trans-unit>
             <trans-unit id="id_search.help">
-                <source>Please enter an ID / alias and select a table.</source>
+                <source>Please enter an ID/alias and select a table.</source>
                 <target>Bitte geben Sie eine ID/Alias ein und wählen eine Tabelle.</target>
             </trans-unit>
             <trans-unit id="ERR.id_search.id_or_alias_not_found">

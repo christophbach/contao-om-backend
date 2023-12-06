@@ -7,8 +7,8 @@
                 <target>Weiterleitung</target>
             </trans-unit>
             <trans-unit id="tl_user_group.redirect.1">
-                <source>Forward user to backend URL. e.g. do=news (A token is automatically added.)</source>
-                <target>Benutzer beim Login zu Backend-URL weiterleiten. z.B. do=news (Ein Token wird automatisch ergänzt.)</target>
+                <source>Forward user to backend URL, e. g. do=news (a token is automatically added).</source>
+                <target>Benutzer beim Login zu Backend-URL weiterleiten, z. B. do=news (ein Token wird automatisch ergänzt).</target>
             </trans-unit>
             <trans-unit id="tl_user_group.redirect_legend">
                 <source>Redirect settings</source>

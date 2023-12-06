@@ -63,19 +63,19 @@
                 <source>Edit element</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.edit.1">
-                <source>Edit element ID %s</source>
+                <source>Edit element with ID %s</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.copy.0">
                 <source>Duplicate element</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.copy.1">
-                <source>Duplicate element ID %s</source>
+                <source>Duplicate element with ID %s</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.delete.0">
                 <source>Delete element</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_element_classes.delete.1">
-                <source>Delete element ID %s</source>
+                <source>Delete element with ID %s</source>
             </trans-unit>
         </body>
     </file>

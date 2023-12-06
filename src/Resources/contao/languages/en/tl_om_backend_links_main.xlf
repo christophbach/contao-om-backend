@@ -12,13 +12,13 @@
                 <source>Group</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.be_group.1">
-                <source>Please enter the group.</source>
+                <source>Please enter group.</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.url.0">
-                <source>Url</source>
+                <source>URL</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.url.1">
-                <source>Please enter the url.</source>
+                <source>Please enter the URL.</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.language.0">
                 <source>Language</source>
@@ -39,7 +39,7 @@
                 <source>Publish</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.deleteConfirm">
-                <source>Deleting category ID %s will also delete all its FAQs! Continue?</source>
+                <source>Deleting category with ID %s will also delete all its FAQs! Continue?</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.new.0">
                 <source>New link</source>
@@ -51,25 +51,25 @@
                 <source>Link details</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.show.1">
-                <source>Show the details of link ID %s</source>
+                <source>Show the details of link with ID %s</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.edit.0">
                 <source>Edit link</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.edit.1">
-                <source>Edit link ID %s</source>
+                <source>Edit link with ID %s</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.copy.0">
                 <source>Duplicate link</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.copy.1">
-                <source>Duplicate link ID %s</source>
+                <source>Duplicate link with ID %s</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.delete.0">
                 <source>Delete link</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_main.delete.1">
-                <source>Delete category ID %s</source>
+                <source>Delete category with ID %s</source>
             </trans-unit>
         </body>
     </file>

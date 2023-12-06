@@ -31,7 +31,7 @@
                 <source>Database</source>
             </trans-unit>
             <trans-unit id="MOD.sysinfo_phpinfo.0">
-                <source>PHP-Info</source>
+                <source>PHP info</source>
             </trans-unit>
             <trans-unit id="MOD.sysinfo_phpinfo.1">
                 <source>Output of phpinfo();</source>

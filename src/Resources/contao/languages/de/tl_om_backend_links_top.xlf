@@ -11,8 +11,8 @@
                 <target>Bitte geben Sie den Titel ein.</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.url.0">
-                <source>Url</source>
-                <target>Url</target>
+                <source>URL</source>
+                <target>URL</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.url.1">
                 <source>Please enter the url.</source>
@@ -55,8 +55,8 @@
                 <target>Veröffentlichen</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.deleteConfirm">
-                <source>Deleting category ID %s will also delete all its FAQs! Continue?</source>
-                <target>Wenn Sie die Kategorie %s löschen, werden auch alle darin enthaltenen FAQs gelöscht!
+                <source>Deleting category with ID %s will also delete all its FAQs! Continue?</source>
+                <target>Wenn Sie die Kategorie mit %s löschen, werden auch alle darin enthaltenen FAQs gelöscht!
                     Fortfahren?
                 </target>
             </trans-unit>
@@ -73,32 +73,32 @@
                 <target>Linkdetails</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.show.1">
-                <source>Show the details of link ID %s</source>
-                <target>Details des Links ID %s anzeigen</target>
+                <source>Show the details of link with ID %s</source>
+                <target>Details des Links mit ID %s anzeigen</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.edit.0">
                 <source>Edit link</source>
                 <target>Link bearbeiten</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.edit.1">
-                <source>Edit link ID %s</source>
-                <target>Link ID %s bearbeiten</target>
+                <source>Edit link with ID %s</source>
+                <target>Link mit ID %s bearbeiten</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.copy.0">
                 <source>Duplicate link</source>
                 <target>Link duplizieren</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.copy.1">
-                <source>Duplicate link ID %s</source>
-                <target>Link ID %s duplizieren</target>
+                <source>Duplicate link with ID %s</source>
+                <target>Link mit ID %s duplizieren</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.delete.0">
                 <source>Delete link</source>
                 <target>Link löschen</target>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.delete.1">
-                <source>Delete category ID %s</source>
-                <target>Link ID %s löschen</target>
+                <source>Delete category with ID %s</source>
+                <target>Link mit ID %s löschen</target>
             </trans-unit>
         </body>
     </file>

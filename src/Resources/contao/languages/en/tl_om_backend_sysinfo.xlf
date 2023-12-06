@@ -30,7 +30,7 @@
                 <source>Priority</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_sysinfo.deleteConfirm">
-                <source>Deleting information ID %s! Continue?</source>
+                <source>Deleting information with ID %s! Continue?</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_sysinfo.new.0">
                 <source>New information</source>
@@ -42,25 +42,25 @@
                 <source>Information details</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_sysinfo.show.1">
-                <source>Show the details of information ID %s</source>
+                <source>Show the details of information with ID %s</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_sysinfo.edit.0">
                 <source>Edit information</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_sysinfo.edit.1">
-                <source>Edit information ID %s</source>
+                <source>Edit information with ID %s</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_sysinfo.copy.0">
                 <source>Duplicate information</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_sysinfo.copy.1">
-                <source>Duplicate information ID %s</source>
+                <source>Duplicate information with ID %s</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_sysinfo.delete.0">
                 <source>Delete information</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_sysinfo.delete.1">
-                <source>Delete information ID %s</source>
+                <source>Delete information with ID %s</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_sysinfo.low.0">
                 <source>Low</source>

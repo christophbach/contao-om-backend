@@ -9,7 +9,7 @@
                 <source>Please enter the title.</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.url.0">
-                <source>Url</source>
+                <source>URL</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.url.1">
                 <source>Please enter the url.</source>
@@ -42,7 +42,7 @@
                 <source>Publish</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.deleteConfirm">
-                <source>Deleting category ID %s will also delete all its FAQs! Continue?</source>
+                <source>Deleting category with ID %s will also delete all its FAQs! Continue?</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.new.0">
                 <source>New link</source>
@@ -60,19 +60,19 @@
                 <source>Edit link</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.edit.1">
-                <source>Edit link ID %s</source>
+                <source>Edit link with ID %s</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.copy.0">
                 <source>Duplicate link</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.copy.1">
-                <source>Duplicate link ID %s</source>
+                <source>Duplicate link with ID %s</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.delete.0">
                 <source>Delete link</source>
             </trans-unit>
             <trans-unit id="tl_om_backend_links_top.delete.1">
-                <source>Delete category ID %s</source>
+                <source>Delete category with ID %s</source>
             </trans-unit>
         </body>
     </file>

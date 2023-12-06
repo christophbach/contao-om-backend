@@ -7,15 +7,15 @@
                 <target>Weiterleitung</target>
             </trans-unit>
             <trans-unit id="tl_user.redirect.1">
-                <source>Forward user to backend URL. e.g. do=news (A token is automatically added.)</source>
-                <target>Benutzer beim Login zu Backend-URL weiterleiten. z.B. do=news (Ein Token wird automatisch ergänzt.)</target>
+                <source>Forward user to backend URL, e. g. do=news (a token is automatically added).</source>
+                <target>Benutzer beim Login zu Backend-URL weiterleiten, z. B. do=news (ein Token wird automatisch ergänzt).</target>
             </trans-unit>
             <trans-unit id="tl_user.om_backend_features.0">
                 <source>Feature selection</source>
                 <target>Features</target>
             </trans-unit>
             <trans-unit id="tl_user.om_backend_features.1">
-                <source>Please activate / deactivate the required features.</source>
+                <source>Please activate/deactivate the required features.</source>
                 <target>Bitte aktivieren/deaktivieren Sie die gewünschten Features.</target>
             </trans-unit>
             <trans-unit id="tl_user.om_backend_features.addToolbar">
@@ -27,8 +27,8 @@
                 <target>Sprache zu Startpunkten hinzufügen</target>
             </trans-unit>
             <trans-unit id="tl_user.om_backend_features.addIdView">
-                <source>Add Ids on holding shift</source>
-                <target>ID´s bei gedrückter Shift-Taste hinzufügen</target>
+                <source>Add IDs while holding shift</source>
+                <target>IDs bei gedrückter Shift-Taste hinzufügen</target>
             </trans-unit>
             <trans-unit id="tl_user.om_backend_features.addCounterView">
                 <source>Show charcount on textfields</source>
@@ -43,8 +43,8 @@
                 <target>Backend-Links anzeigen</target>
             </trans-unit>
             <trans-unit id="tl_user.om_backend_features.addSaveButtons">
-                <source>Show save buttons/edit multiple buttons without submenu (viewport 1200px+)</source>
-                <target>Zeige Speichern-Buttons/Mehrere bearbeiten-Buttons ohne Untermenü an (Viewport 1200px+)</target>
+                <source>Show save buttons/edit multiple buttons without submenu (viewport larger than 1200px)</source>
+                <target>Zeige Speichern-Buttons/Mehrere bearbeiten-Buttons ohne Untermenü an (Viewport größer als 1200px)</target>
             </trans-unit>
             <trans-unit id="tl_user.om_backend_features.addFullWidth">
                 <source>Full width backend</source>
@@ -55,8 +55,8 @@
                 <target>Layout-Button in Seitenstruktur ergänzen</target>
             </trans-unit>
             <trans-unit id="tl_user.om_backend_features.addSysInfo">
-                <source>Add module system-information to backend</source>
-                <target>Modul 'System-Informationen' anzeigen</target>
+                <source>Add module “system-information” to backend</source>
+                <target>Modul „System-Informationen“ anzeigen</target>
             </trans-unit>
             <trans-unit id="tl_user.redirect_legend">
                 <source>Redirect settings</source>
@@ -64,7 +64,7 @@
             </trans-unit>
             <trans-unit id="tl_user.om_backend_legend">
                 <source>Settings om_backend</source>
-                <target>Einstellungen Om-Backend</target>
+                <target>Einstellungen OM-Backend</target>
             </trans-unit>
         </body>
     </file>
